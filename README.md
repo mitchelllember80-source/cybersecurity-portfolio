@@ -44,3 +44,16 @@ Skills practiced:
 - Security documentation
 
 Project write-up: Phishing-Email-Investigation-Lab.md
+
+### Access Control Vulnerability Analysis Lab
+**Platform:** PortSwigger Web Security Academy
+
+Completed an access control lab involving discovery of an exposed administrative endpoint and direct access to privileged functionality.
+
+Skills practiced:
+- Access control testing
+- URL/path discovery
+- Web application security analysis
+- Vulnerability documentation
+
+Project write-up: Access-Control-Vulnerability-Lab.md
