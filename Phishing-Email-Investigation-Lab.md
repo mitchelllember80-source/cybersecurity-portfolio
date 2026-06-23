@@ -31,4 +31,4 @@ A successful phishing attempt could lead to credential theft, account compromise
 - Use MFA and reset credentials if the user interacted with the message
 
 ## Evidence
-Screenshots included showing the phishing email, the phishing overview page, and suspicious indicators identified during analysis.
+Screenshots included showing the phishing email example, overview context, and multiple suspicious indicators such as urgent language, unusual login activity warnings, and credential-harvesting prompts.
