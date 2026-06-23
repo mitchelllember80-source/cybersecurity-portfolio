@@ -31,3 +31,16 @@ Skills practiced:
 
 Project write-up:
 Authentication-Vulnerability-Lab.md
+
+### Phishing Email Investigation Report
+**Platform / Source:** Public phishing email example analysis
+
+Completed a phishing investigation exercise focused on identifying social engineering tactics, suspicious email characteristics, and credential theft indicators.
+
+Skills practiced:
+- Phishing email analysis
+- Threat identification
+- Social engineering awareness
+- Security documentation
+
+Project write-up: Phishing-Email-Investigation-Lab.md
