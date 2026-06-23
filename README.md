@@ -17,3 +17,17 @@ Skills practiced:
 
 Project write-up:
 SQL-Injection-Lab.md
+
+### Authentication Vulnerability Analysis Lab
+**Platform:** PortSwigger Web Security Academy
+
+Completed a web authentication security lab involving username enumeration and login response analysis.
+
+Skills practiced:
+- Authentication testing
+- Username enumeration
+- Login flow analysis
+- Vulnerability documentation
+
+Project write-up:
+Authentication-Vulnerability-Lab.md
